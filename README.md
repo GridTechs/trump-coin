@@ -1,0 +1,2 @@
+# trump-coin
+patrinode bootstrap
